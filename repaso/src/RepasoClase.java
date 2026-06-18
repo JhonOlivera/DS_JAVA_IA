@@ -4,17 +4,11 @@ public class RepasoClase {
 
     public static void main(String[] args) {
 
-        Scanner sc = new Scanner(System.in);
-        
-        //variables
-        int edad;
-        double salario = 1.0000;
-    
+       final double IVA = 0.19;
+       final int DIAS_SEMANA = 7;
 
-        //pedir los datos
-        System.out.println("Ingrese la edad: ");
-        edad = sc.nextInt();
-        System.out.println("La edad de la persona es: " + edad);
+       System.out.println("El IVA es: " + IVA);
+       System.out.println("Los dias de la semana son: " + DIAS_SEMANA);
 
 
 
