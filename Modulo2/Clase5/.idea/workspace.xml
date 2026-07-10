@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b53a88e2-9e10-4665-b7ed-82f138d7d87c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../clase3/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase3/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase3/bin/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase3/bin/Cajero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase3/bin/Ciclos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase3/bin/Condicionales.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase3/bin/Metodos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase3/bin/Opciones.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase3/src/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase3/src/Cajero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase3/src/Ciclos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase3/src/Condicionales.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase3/src/Metodos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase3/src/Opciones.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase4/gestorInventario/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase4/gestorInventario/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase4/gestorInventario/bin/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase4/gestorInventario/bin/Menu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase4/gestorInventario/bin/Operaciones.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase4/gestorInventario/bin/Validador.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase4/gestorInventario/src/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase4/gestorInventario/src/Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase4/gestorInventario/src/Operaciones.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase4/gestorInventario/src/Validador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../repaso/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../repaso/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../repaso/bin/RepasoClase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../repaso/src/RepasoClase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tiposDeDatos/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tiposDeDatos/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tiposDeDatos/bin/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tiposDeDatos/src/App.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3GIBuOCcugddPRwCWMIhPR13MJS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/jhone/OneDrive/Desktop/Java AI backend Developer/Modulo2/clase5",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.95" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.25134.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b53a88e2-9e10-4665-b7ed-82f138d7d87c" name="Changes" comment="" />
+      <created>1783649424819</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1783649424819</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

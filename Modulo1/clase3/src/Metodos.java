@@ -6,5 +6,11 @@ public class Metodos {
     static double calcularPropina(double subtotal, double porcentaje){
         return subtotal * porcentaje;
     }
+
+    //metodo para calcular el total
+    static double calcularTotal(double subTotal, double porcentaje){
+        double propina = calcularPropina(subTotal, porcentaje);
+        return subTotal + propina;
+    }
 }
     

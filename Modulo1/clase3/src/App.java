@@ -9,7 +9,7 @@ public class App {
         System.out.println("Cuantas personas en la mesa: ");
         int personas = sc.nextInt();
 
-        System.out.println("Mesa de " + nombre  + "y " + personas + " personas");
+        System.out.println("Mesa de " + nombre + " "+ personas + " personas ");
 
         //operadores logicos
         double subtotal = 120000;

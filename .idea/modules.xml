@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java AI backend Developer.iml" filepath="$PROJECT_DIR$/.idea/Java AI backend Developer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modulo2/Modulo2.iml" filepath="$PROJECT_DIR$/Modulo2/Modulo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modulo1/clase3/clase3.iml" filepath="$PROJECT_DIR$/Modulo1/clase3/clase3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modulo1/clase4/clase4.iml" filepath="$PROJECT_DIR$/Modulo1/clase4/clase4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modulo1/gestorReservas/gestorReservas.iml" filepath="$PROJECT_DIR$/Modulo1/gestorReservas/gestorReservas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modulo1/repaso/repaso.iml" filepath="$PROJECT_DIR$/Modulo1/repaso/repaso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modulo1/tiposDeDatos/tiposDeDatos.iml" filepath="$PROJECT_DIR$/Modulo1/tiposDeDatos/tiposDeDatos.iml" />
+    </modules>
+  </component>
+</project>
