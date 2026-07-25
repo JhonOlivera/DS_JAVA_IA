@@ -14,6 +14,7 @@ public class CuentaBancaria {
     public CuentaBancaria(String titular, String numeroCuenta, double saldoInicial) {
         this.titular = titular;
         this.numeroCuenta = numeroCuenta;
+
         if (saldoInicial >= 0) {
             this.saldo = saldoInicial;
         } else {
