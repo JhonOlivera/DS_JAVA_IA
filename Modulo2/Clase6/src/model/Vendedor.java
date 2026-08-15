@@ -1,5 +1,4 @@
-import model.Notificable;
-import model.Usuario;
+package model;
 
 public class Vendedor extends Usuario implements Notificable {
     public Vendedor(String nombre, String email) {
@@ -8,7 +7,7 @@ public class Vendedor extends Usuario implements Notificable {
 
     @Override
     public String panelInicio() {
-        return "Panel de Vendedor: publicar y gestionar mis productos";
+        return "Panel de model.Vendedor: publicar y gestionar mis productos";
     }
 
     @Override

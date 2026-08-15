@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
-
-public class MetodoPago {
+public interface MetodoPago {
+    String procesarPago(double monto);
 }

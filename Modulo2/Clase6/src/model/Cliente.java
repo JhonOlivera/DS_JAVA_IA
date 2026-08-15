@@ -1,5 +1,4 @@
-import model.Notificable;
-import model.Usuario;
+package model;
 
 public class Cliente extends Usuario implements Notificable {
     private int puntos;
@@ -11,7 +10,7 @@ public class Cliente extends Usuario implements Notificable {
 
     @Override
     public String panelInicio() {
-        return "Panel de Cliente: ver productos y mis compras";
+        return "Panel de model.Cliente: ver productos y mis compras";
     }
 
     @Override

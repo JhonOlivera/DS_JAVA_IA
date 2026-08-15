@@ -1,3 +1,5 @@
+package model;
+
 public class Animal {
     protected String nombre;
 

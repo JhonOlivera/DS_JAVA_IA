@@ -1,3 +1,5 @@
+package model;
+
 public class Vehiculo {
     protected String marca;
     protected int velocidad;
