@@ -1,2 +1,7 @@
 target/
 out/
+.idea/
+*.log
+debug-*.log
+secrets.*.properties
+!secrets.example.properties
